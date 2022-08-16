@@ -54,7 +54,6 @@ static NSString *const kRNConcurrentRoot = @"concurrentRoot";
     rootView.backgroundColor = [UIColor whiteColor];
   }
   
-  [NSThread sleepForTimeInterval:2];
 
 
   self.window = [[UIWindow alloc] initWithFrame:[UIScreen mainScreen].bounds];
