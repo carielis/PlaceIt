@@ -1,15 +1,17 @@
 # PlaceIt
 React native app for search food place
 
-New features => ios after android
+# HERE BE IMAGES OR GIF Application
 
-For starting app needed steps
+
+
+# For starting app needed steps
 1. npm install
 2. npm run pods
 3. npm run android/ios
 
-Planing:
-
+# Planing:
+### New features => ios after android
 [MVP VERSION]
 1. Onboarding
 2. Authorization/Registration with oAuth
